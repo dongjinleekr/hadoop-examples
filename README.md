@@ -14,10 +14,11 @@ This repository contains various examples of using
 </table>
 
 ![hadoop logo](http://hadoop.apache.org/images/hadoop-logo.jpg)
+
 ![mahout logo](http://mahout.apache.org/images/mantle-mahout.png)
 
 ## License
 
-Copyright (C) 2013 [Dongjin Lee](). <dongjin.lee.kr@gmail.com>
+Copyright (C) 2013 [Dongjin Lee](http://blog.dongjinleekr.com). <dongjin.lee.kr@gmail.com>
 
 Licensed under the Apache License, Version 2.0
