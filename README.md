@@ -15,7 +15,7 @@ This repository contains various examples of using
 
 ![hadoop logo](http://hadoop.apache.org/images/hadoop-logo.jpg)
 
-![mahout logo](http://mahout.apache.org/images/mantle-mahout.png)
+![mahout logo](http://mahout.apache.org/images/mahout-logo.png)
 
 ## License
 
